@@ -27,14 +27,13 @@
 </div>
 
 
-
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooyeonlee127&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=sooyeonlee127&show_icons=true">
 
 <br>
-<h3>🏆 Baekjoon solved rank 🏆</h3>
+<h3>🏆Baekjoon solved rank🏆</h3>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sooyeon683)](https://solved.ac/sooyeon683)
 </div>
