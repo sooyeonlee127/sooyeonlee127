@@ -5,7 +5,7 @@
 </div>
 <br>
 <div align="center">
-초보 개발자 🌱 입니다.
+프론트엔드 개발자 이수연입니다.
 </div>
 <br>
 <br>
