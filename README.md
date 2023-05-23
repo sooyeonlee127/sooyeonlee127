@@ -1,11 +1,12 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=♥%20sooyeon%20♥&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=%20sooyeon%20&fontSize=90)
   
 </div>
 <br>
-<div align="center">
-프론트엔드 개발자 이수연입니다.
+<div align="left">
+	<p>안녕하세요! </p>
+	<p>‘일상에 편리함과 즐거움을 주는 개발자가 되자’ 라는 목표를 향해 달려가고 있는 프론트엔드 개발자 이수연입니다. </p>
 </div>
 <br>
 <br>
