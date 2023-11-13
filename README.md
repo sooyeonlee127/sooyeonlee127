@@ -1,18 +1,7 @@
-<div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=%20sooyeon%20&fontSize=90)
-  
-</div>
-<br>
-<div align="left">
-	<p>안녕하세요! </p>
-	<p>‘일상에 편리함과 즐거움을 주는 개발자가 되자’ 라는 목표를 향해 달려가고 있는 프론트엔드 개발자 이수연입니다. </p>
-</div>
-<br>
-<br>
 
+<br>
 <div align="center">
-  <h3> ✨Tech Stack✨ </h3>
+  <h3> Tech Stack </h3>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
@@ -29,14 +18,10 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 </div>
 <br>
-<div align="center">
-  <h3> 🌱 I’m currently learning ... 🌱 </h3>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" /> 
 
-
-</div>
 
 
 <div align=center>
@@ -45,7 +30,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sooyeonlee127&show_icons=true">
 
 <br>
-<h3>🏆Baekjoon solved rank🏆</h3>
+<br>
+
+<!-- <h3>🏆Baekjoon solved rank🏆</h3> -->
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sooyeon683)](https://solved.ac/sooyeon683)
 </div>
